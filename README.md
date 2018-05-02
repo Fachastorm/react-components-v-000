@@ -10,7 +10,7 @@ We'll introduce components, explain why they're important, and look at a few exa
 3. Re-use that component in a parent component
 
 ## Components?
-
+DONE
 Let's examine a high level overview of what a React component is before we implement one. The official [React documentation on components][react-component] says it best:
 
 >Components let you split the UI into independent, reusable pieces, and think
